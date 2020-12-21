@@ -12,3 +12,4 @@ A curation of projects and resources  involving running Kubernetes at home. ⛵
 - [zenxedo/k3s-gitops](https://github.com/zenxedo/k3s-gitops) - Flux/GitOps managed k3s cluster
 - [blackjid/k8s-gitops](https://github.com/blackjid/k8s-gitops) -   Flux/GitOps managed cluster built with Terraform and libvirt at [blackjid/homelab-infra](https://github.com/blackjid/homelab-infra)
 - [vaskozl/home-infra](https://github.com/Vaskozl/home-infra) -   Flux2 Raspberry Pi cluster running crème de la crème FOSS
+- [timtorchen/pi-cluster](https://github.com/timtorChen/pi-cluster) - Helmfile managed k3s cluster, with sops securing secrtes
