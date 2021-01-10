@@ -16,3 +16,4 @@ A curation of projects and resources  involving running Kubernetes at home. ⛵
 - [timtorchen/pi-cluster](https://github.com/timtorChen/pi-cluster) - Helmfile managed k3s cluster, with sops securing secrets
 - [ams0/rancher-home](https://github.com/ams0/rancher-home) - RKE+Terraform-deployed cluster, with Fluxv1 ([video](https://www.youtube.com/watch?v=JrBo3UCe6ds&t=1375s))
 - [npawelek/k8s-gitops](https://github.com/npawelek/k8s-gitops) - Flux2/GitOps managed cluster built with Ansible and kubeadm
+- [zbigniewzolnierowicz/k8s-home](https://github.com/zbigniewzolnierowicz/k8s-home) - Flux2/Gitops managed cluster running on k3s
