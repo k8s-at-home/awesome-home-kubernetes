@@ -1,0 +1,32 @@
+name: Update search badges
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+
+jobs:
+  repo-badges:
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, '[ci-skip]')"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Run script
+        id: run
+        run: |
+          ./github/scripts/update_search_badges.sh
+
+      - name: Commit and push updated badges
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            git config user.name "$GITHUB_ACTOR"
+            git config user.email "$GITHUB_ACTOR@users.noreply.github.com"
+            git pull
+            git add "README.md"
+            git commit -m "Auto-update badges [ci-skip]" || exit 0
+            git push
+          fi
