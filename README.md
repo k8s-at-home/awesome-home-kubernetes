@@ -23,3 +23,4 @@ A curation of projects and resources  involving running Kubernetes at home. ⛵
 - [fobiat/k8s-gitops](https://github.com/fobiat/k8s-gitops) -  Flux2/GitOps managed cluster running on k8s
 - [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Home Kubernetes cluster managed by GitOps on Raspberry Pis with Ansible at [kubeflare/k8s-cluster-installation](https://github.com/raspbernetes/k8s-cluster-installation)
 - [lanquarden/roci-gitops](https://github.com/lanquarden/roci-gitops) - Flux/GitOps managed k3s HA cluster built with Ansible at [lanquarden/home-operations](https://github.com/lanquarden/home-operations)
+- [truecharts/truecharts](https://github.com/truecharts/truecharts) - Actively porting and streamlining k8s-at-ome deployment on [TrueNAS SCALE](https://www.truenas.com/truenas-scale/)
