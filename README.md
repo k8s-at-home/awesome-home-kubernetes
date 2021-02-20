@@ -29,7 +29,7 @@ A curation of projects and resources  involving running Kubernetes at home. ⛵
 | [fobiat/k8s-gitops](https://github.com/fobiat/k8s-gitops)                         | Flux2/GitOps managed cluster running on k8s                                                                                                                                                                          |
 | [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops)                       | Home Kubernetes cluster managed by GitOps on Raspberry Pis with Ansible at [kubeflare/k8s-cluster-installation](https://github.com/raspbernetes/k8s-cluster-installation)                                            |
 | [lanquarden/roci-gitops](https://github.com/lanquarden/roci-gitops)               | Flux/GitOps managed k3s HA cluster built with Ansible at [lanquarden/home-operations](https://github.com/lanquarden/home-operations)                                                                                 |
-| [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops)               | Flux/GitOps managed mixed-arch microk8s HA clusters (staging/production) built with Ansible. Use GlusterFS, Zalando Postgres and SOPS for persistency.)                                                                                 |
+| [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops)                       | Flux/GitOps managed mixed-arch microk8s HA clusters (staging/production) built with Ansible. Use GlusterFS, Zalando Postgres and SOPS for persistency.)                                                                   |
 
 ## Helm chart repositories
 
