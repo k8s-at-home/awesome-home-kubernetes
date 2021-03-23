@@ -31,6 +31,7 @@ A curation of projects and resources  involving running Kubernetes at home. ⛵
 | [lanquarden/roci-gitops](https://github.com/lanquarden/roci-gitops)               | Flux/GitOps managed k3s HA cluster built with Ansible at [lanquarden/home-operations](https://github.com/lanquarden/home-operations)                                                                                 |
 | [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops)                       | Flux/GitOps managed mixed-arch microk8s HA clusters (staging/production) built with Ansible. Use GlusterFS, Zalando Postgres and SOPS for persistency.)                                                                   |
 | [WRMilling/k3s-gitops](https://github.com/WRMilling/k3s-gitops)                   | Flux2/GitOps managed k3s cluster running on mixed-architecture hardware (AMD64 + ARM64) as defined in [WRMilling/homelab-infrastructure](https://github.com/WRMilling/homelab-infrastructure)                      |
+| [nicholaswilde/home-cluster](https://github.com/nicholaswilde/home-cluster/)      | Flux/GitOps managed k3s cluster running on an arm64 [Turing Pi 1](https://turingpi.com/)                                                                                                                    |
 
 ## Helm chart repositories
 
