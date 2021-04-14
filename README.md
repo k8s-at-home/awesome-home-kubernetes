@@ -35,7 +35,7 @@ A curation of projects and resources  involving running Kubernetes at home. ⛵
 | [rust84/k8s-gitops](https://github.com/rust84/k8s-gitops/)      | Flux/GitOps managed k3s cluster running on mixed-architecture.    |
 | [auricom/home-cluster](https://github.com/auricom/home-cluster) | Flux2/Gitops managed cluster running on k3s                                                                                                                                                                          |
 | [mcfio/GitOps](https://github.com/mcfio/GitOps) | ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth." |
-
+| [DirtyCajunRice/GitOps-Argo-CD](https://github.com/DirtyCajunRice/GitOps-Argo-CDr) | Argo CD managed cluster |
 ## Helm chart repositories
 
 | Respository                                                               | Description                                                                     |
