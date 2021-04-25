@@ -4,7 +4,7 @@ GITHUB_SEARCH="https://github.com/search/advanced?q="
 GITHUB_SEARCH_TYPE="\&type=Code"
 BADGE_START="[![search](https://img.shields.io/badge/search-"
 BADGE_END="-orange?style=for-the-badge)]"
-REPOS_START='## Home GitOps Kubernetes clusters'
+REPOS_START='Repository'
 REPOS_END="## Helm chart repositories"
 
 # extract list of repos from readme
