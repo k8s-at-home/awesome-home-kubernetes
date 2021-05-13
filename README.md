@@ -3,13 +3,13 @@
 A curation of projects and resources  involving running Kubernetes at home. ⛵
 
 - [Awesome Home Kubernetes](#awesome-home-kubernetes)
-  - [Home GitOps Kubernetes clusters](#home-gitops-kubernetes-clusters)
-  - [Helm chart repositories](#helm-chart-repositories)
+  - [Home GitOps Kubernetes Clusters](#home-gitops-kubernetes-clusters)
+  - [Helm Chart Repositories](#helm-chart-repositories)
 
-## Home GitOps Kubernetes clusters
+## Home GitOps Kubernetes Clusters
 
-[![search](https://img.shields.io/badge/search-repos-orange?style=for-the-badge)](https://github.com/search/advanced?q=repo%3Aonedr0p%2Fhome-cluster+repo%3Acarpenike%2Fk8s-gitops+repo%3Azacheryph%2Fk8s-gitops+repo%3Aanthr76%2Finfra+repo%3Abillimek%2Fk8s-gitops+repo%3Abjw-s%2Fk8s-gitops+repo%3Azenxedo%2Fk3s-gitops+repo%3Ablackjid%2Fk8s-gitops+repo%3Avaskozl%2Fhome-infra+repo%3Atimtorchen%2Fpi-cluster+repo%3Aams0%2Francher-home+repo%3Anpawelek%2Fk8s-gitops+repo%3Azbigniewzolnierowicz%2Fk8s-home+repo%3Afobiat%2Fk8s-gitops+repo%3Axunholy%2Fk8s-gitops+repo%3Alanquarden%2Froci-gitops+repo%3Aangelnu%2Fk8s-gitops+repo%3AWRMilling%2Fk3s-gitops+repo%3Anicholaswilde%2Fhome-cluster+repo%3Arust84%2Fk8s-gitops+repo%3Aauricom%2Fhome-cluster+repo%3Amcfio%2FGitOps+repo%3Adirtycajunrice%2Fgitops+repo%3Atodaywasawesome%2Fatomic-cluster+repo%3Ak8s-at-home%2Fcharts+repo%3Anicholaswilde%2Fhelm-charts+repo%3Atruecharts%2Ftruecharts+repo%3Ahalkeye%2Fhelm-charts&type=Code)
-[![search](https://img.shields.io/badge/search-users-orange?style=for-the-badge)](https://github.com/search/advanced?q=user%3Aonedr0p+user%3Acarpenike+user%3Azacheryph+user%3Aanthr76+user%3Abillimek+user%3Abjw-s+user%3Azenxedo+user%3Ablackjid+user%3Avaskozl+user%3Atimtorchen+user%3Aams0+user%3Anpawelek+user%3Azbigniewzolnierowicz+user%3Afobiat+user%3Axunholy+user%3Alanquarden+user%3Aangelnu+user%3AWRMilling+user%3Anicholaswilde+user%3Arust84+user%3Aauricom+user%3Amcfio+user%3Adirtycajunrice+user%3Atodaywasawesome+user%3Ak8s-at-home+user%3Anicholaswilde+user%3Atruecharts+user%3Ahalkeye&type=Code)
+[![search](https://img.shields.io/badge/search-repos-orange?style=for-the-badge)](https://github.com/search/advanced?q=repo%3Aonedr0p%2Fhome-cluster+repo%3Acarpenike%2Fk8s-gitops+repo%3Azacheryph%2Fk8s-gitops+repo%3Aanthr76%2Finfra+repo%3Abillimek%2Fk8s-gitops+repo%3Abjw-s%2Fk8s-gitops+repo%3Azenxedo%2Fk3s-gitops+repo%3Ablackjid%2Fk8s-gitops+repo%3Avaskozl%2Fhome-infra+repo%3Atimtorchen%2Fpi-cluster+repo%3Aams0%2Francher-home+repo%3Anpawelek%2Fk8s-gitops+repo%3Azbigniewzolnierowicz%2Fk8s-home+repo%3Afobiat%2Fk8s-gitops+repo%3Axunholy%2Fk8s-gitops+repo%3Alanquarden%2Froci-gitops+repo%3Aangelnu%2Fk8s-gitops+repo%3AWRMilling%2Fk3s-gitops+repo%3Anicholaswilde%2Fhome-cluster+repo%3Arust84%2Fk8s-gitops+repo%3Aauricom%2Fhome-cluster+repo%3Amcfio%2FGitOps+repo%3Adirtycajunrice%2Fgitops+repo%3Atodaywasawesome%2Fatomic-cluster&type=Code)
+[![search](https://img.shields.io/badge/search-users-orange?style=for-the-badge)](https://github.com/search/advanced?q=user%3Aonedr0p+user%3Acarpenike+user%3Azacheryph+user%3Aanthr76+user%3Abillimek+user%3Abjw-s+user%3Azenxedo+user%3Ablackjid+user%3Avaskozl+user%3Atimtorchen+user%3Aams0+user%3Anpawelek+user%3Azbigniewzolnierowicz+user%3Afobiat+user%3Axunholy+user%3Alanquarden+user%3Aangelnu+user%3AWRMilling+user%3Anicholaswilde+user%3Arust84+user%3Aauricom+user%3Amcfio+user%3Adirtycajunrice+user%3Atodaywasawesome&type=Code)
 
 | Repository                                                                        | Description                                                                                                                                                                                                          |
 |-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -37,7 +37,11 @@ A curation of projects and resources  involving running Kubernetes at home. ⛵
 | [mcfio/GitOps](https://github.com/mcfio/GitOps) | ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth." |
 | [dirtycajunrice/gitops](https://github.com/dirtycajunrice/gitops) | Argo CD managed cluster |
 | [todaywasawesome/atomic-cluster](https://github.com/todaywasawesome/atomic-cluster) | 5-node home lab x86/arm built on Atomic Pis for under $250. |
-## Helm chart repositories
+
+## Helm Chart Repositories
+
+[![search](https://img.shields.io/badge/search-charts-orange?style=for-the-badge)](https://github.com/search/advanced?q=repo%3Ak8s-at-home%2Fcharts+repo%3Anicholaswilde%2Fhelm-charts+repo%3Atruecharts%2Ftruecharts+repo%3Ahalkeye%2Fhelm-charts&type=Code)
+[![search](https://img.shields.io/badge/search-users-orange?style=for-the-badge)](https://github.com/search/advanced?q=user%3Ak8s-at-home+user%3Anicholaswilde+user%3Atruecharts+user%3Ahalkeye&type=Code)
 
 | Repository                                                               | Description                                                                     |
 |---------------------------------------------------------------------------|---------------------------------------------------------------------------------|
