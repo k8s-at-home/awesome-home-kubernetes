@@ -39,6 +39,7 @@ A curation of projects and resources  involving running Kubernetes at home. ⛵
 | [dirtycajunrice/gitops](https://github.com/dirtycajunrice/gitops) | Argo CD managed cluster |
 | [todaywasawesome/atomic-cluster](https://github.com/todaywasawesome/atomic-cluster) | 5-node home lab x86/arm built on Atomic Pis for under $250. |
 | [toboshii/home-cluster](https://github.com/toboshii/home-cluster) | Flux2/GitOps managed k3s cluster deployed on Proxmox using Terraform and Ansible. |
+| [rwaltr/infra](https://github.com/rwaltr/infra) | Argo/Terraform Managed Multi Cluster design. | 
 <!--END-USER-REPO-->
 
 ## Helm Chart Repositories
